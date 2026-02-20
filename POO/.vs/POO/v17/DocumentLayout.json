@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\excepciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:excepciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\codigopersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:codigopersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|c:\\users\\alumnos\\documents\\zaaramirez\\tp20262\\poo\\codigorectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BF0847-DD4F-43DE-AB88-B47BA58875A2}|POO.csproj|solutionrelative:codigorectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +59,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Banco.cs",
+              "RelativeDocumentMoniker": "Banco.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Banco.cs",
+              "RelativeToolTip": "Banco.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T15:08:39.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arreglos.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Arreglos.cs",
+              "RelativeDocumentMoniker": "Arreglos.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Arreglos.cs",
+              "RelativeToolTip": "Arreglos.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:28:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Excepciones.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Excepciones.cs",
+              "RelativeDocumentMoniker": "Excepciones.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Excepciones.cs",
+              "RelativeToolTip": "Excepciones.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:06:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "Dispositivo.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Dispositivo.cs",
+              "RelativeToolTip": "Dispositivo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:09:00.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Auto.cs",
+              "RelativeDocumentMoniker": "Auto.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Auto.cs",
+              "RelativeToolTip": "Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:17:41.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:25:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Rectangulo.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Rectangulo.cs",
+              "RelativeToolTip": "Rectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:56:59.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CodigoRectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\CodigoRectangulo.cs",
+              "RelativeDocumentMoniker": "CodigoRectangulo.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\CodigoRectangulo.cs",
+              "RelativeToolTip": "CodigoRectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:53:45.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Persona.cs",
               "RelativeDocumentMoniker": "Persona.cs",
               "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Persona.cs",
               "RelativeToolTip": "Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T16:37:56.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CodigoPersona.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\CodigoPersona.cs",
+              "RelativeDocumentMoniker": "CodigoPersona.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\ZaaRamirez\\TP20262\\POO\\CodigoPersona.cs",
+              "RelativeToolTip": "CodigoPersona.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T16:41:59.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T16:41:59.213Z"
             }
           ]
         }
